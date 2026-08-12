@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.7)
-      public_suffix (>= 2.0.2, < 7.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     ethon (0.16.0)
       ffi (>= 1.15.0)
     ffi (1.17.1-aarch64-linux-gnu)
@@ -17,12 +17,12 @@ GEM
       yell (~> 2.0)
       zeitwerk (~> 2.5)
     mercenary (0.4.0)
-    nokogiri (1.18.1-aarch64-linux-gnu)
+    nokogiri (1.19.4-aarch64-linux-gnu)
       racc (~> 1.4)
-    nokogiri (1.18.1-x86_64-linux-gnu)
+    nokogiri (1.19.4-x86_64-linux-gnu)
       racc (~> 1.4)
     parallel (1.26.3)
-    public_suffix (6.0.1)
+    public_suffix (7.0.5)
     racc (1.8.1)
     rainbow (3.1.1)
     typhoeus (1.4.1)
